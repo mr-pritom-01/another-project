@@ -1,6 +1,7 @@
 body {
     background-color: rgba(227, 117, 216, 0.733);
     /* text-align: center; */
+    margin: 30px;
 }
 h1 {
     text-decoration: underline;
@@ -13,9 +14,19 @@ h1 {
     border: 5px solid black;
 }
 h2 {
+    background-color: darkkhaki;
     border: 8px solid purple;
     padding: 5px 5px;
     border-style: dotted double;
     box-shadow: 20px 15px 15px;
     border-radius: 20px;
 }
+.box {
+    border: 6px solid 
+    rgba(124, 12, 96, 0.726);
+    margin: 20px;
+    border-style: double;
+    padding: 15px;
+    border-radius: 15px 50px;
+}
+
