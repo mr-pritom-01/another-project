@@ -28,5 +28,9 @@ h2 {
     border-style: double;
     padding: 15px;
     border-radius: 15px 50px;
-}
+    box-shadow: 20px 15px 50px;
 
+}
+.p {
+    font-style: italic;
+}
